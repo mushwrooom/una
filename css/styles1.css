@@ -1,0 +1,61 @@
+.16402_3034 { 
+	overflow:hidden;
+}.e16402_3034 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:360px;
+	height:640px;
+	position:absolute;
+}.e16402_3035 { 
+	width:310px;
+	height:273px;
+	position:absolute;
+	left:27px;
+	top:332px;
+	background-image:url(images/1_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e16402_3036 { 
+	color:rgba(0, 0, 0, 1);
+	width:227px;
+	height:57px;
+	position:absolute;
+	left:67px;
+	top:144px;
+	font-family:Single Day;
+	text-align:center;
+	font-size:28px;
+	letter-spacing:0.4000000059604645;
+	line-height:px;
+}.e16402_3037 { 
+	width:315px;
+	height:315px;
+	position:absolute;
+	left:23px;
+	top:0px;
+	background-image:url(images/chatbox_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e16402_3038 { 
+	background-color:rgba(255, 238.8500154018402, 214.6250081062317, 1);
+	width:327px;
+	height:48px;
+	position:absolute;
+	left:16px;
+	top:581px;
+	border-top-left-radius:48px;
+	border-top-right-radius:48px;
+	border-bottom-left-radius:48px;
+	border-bottom-right-radius:48px;
+}.ei16402_3038_196_2592 { 
+	color:rgba(9.000000413507223, 10.000000353902578, 10.000000353902578, 1);
+	width:88px;
+	height:16px;
+	position:absolute;
+	left:120px;
+	top:16px;
+	font-family:Inter;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+	line-height:px;
+}
